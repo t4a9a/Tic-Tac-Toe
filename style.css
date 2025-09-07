@@ -59,7 +59,7 @@ body{
     background-color: black;
     color:red;
     border-radius:1rem;
-    border:solide 2 rem solid white;
+    border:2px solid white;
 }
 
 #message{
@@ -78,4 +78,5 @@ body{
 
 .hide{
     display:none;
+
 }
